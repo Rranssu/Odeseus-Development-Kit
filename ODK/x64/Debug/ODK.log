@@ -1,0 +1,3 @@
+﻿  winndow.cpp
+SDL2_ttf.lib(SDL2_ttf.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in SDL2.lib(SDL2.dll); second definition ignored
+  ODK.vcxproj -> D:\Documents\Odeseus Development Kit\x64\Debug\ODK.lib
